@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607074532 source:c:\users\aris\desktop\computer programmin 1 practice\wala lang\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
